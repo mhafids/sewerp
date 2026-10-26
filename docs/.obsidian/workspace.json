@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "f73b7ab59bc6c2fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "adcf2cec5ae8c7b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "332ffe0cee09a854",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "View"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93b93233128c6b87",
+    "type": "split",
+    "children": [
+      {
+        "id": "17863d595ed3ee97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bb011595eaf75a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "acd8af975bf5c5ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f4e694be75cde8bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65e6df0480180568",
+    "type": "split",
+    "children": [
+      {
+        "id": "3548d9720318c14a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9134d8c82d3db7df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "79ad3374a67af252",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "628c8f36263b42fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e1bffe89f8f8350",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f3aad0fb8efa3ca8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f3aad0fb8efa3ca8",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.base",
+    "memory/shareds/frontend-test-hello-world.md",
+    "memory/shareds/orchestrator-test-hello-world.md",
+    "specs/003-sales-order.md",
+    "agent-profile/07-lead-frontend-engineer.md",
+    "context/requirements_standard.md",
+    "specs/002a-customer-management.md",
+    "specs/_archive/003f-sales-order-surcharges.md",
+    "specs/_archive/003e-billing-statement.md",
+    "specs/_archive/003d-shipping-label.md",
+    "specs/_archive/003c-payment-log.md",
+    "specs/_archive/003b-sales-receipt.md",
+    "specs/_archive/003a-delivery-note.md",
+    "specs/_archive",
+    "context/qa.md",
+    "specs/011c-order-price-resolution.md",
+    "specs/011b-non-matrix-price-list.md",
+    "specs/011a-matrix-price-list.md",
+    "specs/010d-tenant-switching.md",
+    "specs/010c-granular-rbac.md",
+    "specs/010b-session-management.md",
+    "specs/010a-google-sso.md",
+    "specs/009d-manual-cash-payment.md",
+    "specs/009c-payment-webhook.md",
+    "specs/009b-xendit-gateway.md",
+    "specs/009a-payment-settings.md",
+    "specs/008d-payroll-recap-report.md",
+    "specs",
+    "context"
+  ]
+}
